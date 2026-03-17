@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+yfinance
+requests
+beautifulsoup4
+lxml
+optuna
+colorlog
+python-dotenv
